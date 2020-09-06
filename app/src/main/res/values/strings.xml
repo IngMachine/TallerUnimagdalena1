@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TallerUnimagdalena1</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="mensajeError1">"Datos Invalidos"</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="operaciones">Operaciones</string>
+    <string name="dato1">Número 1</string>
+    <string name="dato2">Número 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Division</string>
+    <string name="mcd">Maximo Comun Divisor</string>
+    <string name="mnm">Minimo Comun Multiplo</string>
+    <string name="logo_unimag">Logo Unimag</string>
+</resources>
